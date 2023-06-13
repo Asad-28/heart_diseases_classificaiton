@@ -23,7 +23,7 @@ To get started with the code, follow the instructions below:
 
    ```
    !pip3 install pyspark==3.1.2
-!pip install findspark
+   !pip install findspark
    ```
 
 ### Dataset
